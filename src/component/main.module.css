@@ -55,6 +55,7 @@ gap: 5px;
 align-self: stretch;
 border-radius: 33px;
 border: 1px solid var(--Dark-Grey, #403F3F);
+cursor:text;
 }
 .text_fill{
     color: var(--Dark-Grey, #403F3F);
